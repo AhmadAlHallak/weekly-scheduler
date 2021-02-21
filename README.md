@@ -29,7 +29,7 @@ const courses = [
     ],
   },
 ];
-console.log(JSON.stringify(scheduler(courses).sectionsList, null, 2));
+return scheduler(courses).sectionsList;
 ```
 Sample output =>
 ```js
