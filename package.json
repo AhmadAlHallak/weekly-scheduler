@@ -1,0 +1,16 @@
+{
+  "name": "weekly-scheduler",
+  "version": "1.0.0",
+  "description": "A small script for scheduling college courses. Can work for any recurring weekly tasks, where each task can have more than one "slot" to achieve said task.",
+  "main": "sectionScrape.js",
+  "repository": "AhmadAlHallak/weekly-scheduler",
+  "author": "Ahmad AlHallak",
+  "license": "MIT",
+  "keywords": [
+      "college",
+      "scheduler",
+      "courses",
+      "tasks",
+      "weekly"
+    ]
+}
