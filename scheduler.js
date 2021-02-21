@@ -105,3 +105,4 @@ courses.sort((a, b) => a.sections.length - b.sections.length);
   recurReg([], [], 0);
   return {sectionsList, schedules}; 
 };
+module.exports = registrar;
